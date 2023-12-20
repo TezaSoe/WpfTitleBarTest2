@@ -1,0 +1,16 @@
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\bin\Debug\WpfTitleBarTest2.exe.config
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\bin\Debug\WpfTitleBarTest2.exe
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\bin\Debug\WpfTitleBarTest2.pdb
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\obj\Debug\MainWindow.g.cs
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\obj\Debug\App.g.cs
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\obj\Debug\WpfTitleBarTest2_MarkupCompile.cache
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\obj\Debug\WpfTitleBarTest2_MarkupCompile.lref
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\obj\Debug\App.baml
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\obj\Debug\MainWindow.baml
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\obj\Debug\WpfTitleBarTest2.g.resources
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\obj\Debug\WpfTitleBarTest2.Properties.Resources.resources
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\obj\Debug\WpfTitleBarTest2.csproj.GenerateResource.cache
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\obj\Debug\WpfTitleBarTest2.csproj.CoreCompileInputs.cache
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\obj\Debug\WpfTitleBarTest2.exe
+C:\Users\soe.tayzar\source\repos\WpfTitleBarTest2\WpfTitleBarTest2\obj\Debug\WpfTitleBarTest2.pdb
